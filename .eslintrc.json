@@ -48,6 +48,7 @@
         "ts": "never"
       }
     ],
+    "import/no-cycle": "off",
     "no-console": ["warn", { "allow": ["error"] }],
     "no-useless-constructor": "off",
     "prettier/prettier": "error",
